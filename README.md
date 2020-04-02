@@ -1,7 +1,4 @@
-# test-github-action
-
 Try github actions.
-
 
 ![Hello Github Action](https://github.com/nevstop/test-github-action/workflows/Hello%20Github%20Action/badge.svg)
 
